@@ -1,3 +1,4 @@
-0 Izquierda
-1 Arriba
-2 Derecha
+0 Nicky
+1 Celular
+2 Audifonos
+3 Class 4
